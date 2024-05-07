@@ -204,4 +204,4 @@ console.log("=========================")
 //TERCEIRA TABUADA//
 
 let T = 64;
-console.log(T = T + 1);
+console.log(T = T);
