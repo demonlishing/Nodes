@@ -1,3 +1,20 @@
+//TABUADA DEFINITIVA//
+
+T = 1
+M = 1
+for (T = 1; T <= 10; T++){
+    console.log();
+    console.log("========== T = "+ T + " ==========");
+    for (M = 1; M <= 10; M++){
+        console.log(T + " X " + M + " = ", T * M);
+    }
+}
+
+
+//MÉTODOS ANTERIORES//
+
+
+
 //PRIMEIRA TABUADA//
 console.log("==================================");
 
@@ -205,3 +222,13 @@ console.log("=========================")
 
 let T = 64;
 console.log(T = T);
+//TABUADA DO 1//
+T = 1
+M = 1
+for (M = 1; M <= 10; M++){
+    
+    console.log(T + " X " + M + " = ", T * M);
+
+}
+
+
