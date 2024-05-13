@@ -11,7 +11,18 @@ for (T = 1; T <= 10; T++){
 }
 
 
-//MÉTODOS ANTERIORES//
+/////////////ÉTODOS ANTERIORES/////////////
+
+
+//TABUADA DO 1//
+T = 1
+M = 1
+for (M = 1; M <= 10; M++){
+    
+    console.log(T + " X " + M + " = ", T * M);
+
+}
+
 
 
 
